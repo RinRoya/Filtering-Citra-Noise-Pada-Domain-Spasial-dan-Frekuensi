@@ -2,6 +2,8 @@
 ## Penulis: Ridho Nur Rohman Wijaya
 Pada kesempatan kali ini akan mengimmplementasi metode-metode filtering pada citra noise di domain spasial dan frekuensi yang dikemas dalam bentuk GUI. Implementasi menggunakan bahasa pemrograman MATLAB.
 
+Program utama ada pada file **main.m**
+
 Cuplikan hasil program yaitu:
 
 #### Tampilan Awal
